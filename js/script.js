@@ -1,1 +1,14 @@
-window.console.log('Hello boy');
+window.onload = function start(){
+    function log(val){
+        window.console.log(val);
+
+    }
+
+    log('coucou');
+
+
+
+
+
+}
+
