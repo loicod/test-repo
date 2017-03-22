@@ -5,10 +5,10 @@ window.onload = function start(){
     }
 
     log('coucou');
+    log('2eme log');
 
 
 
 
 
 }
-
