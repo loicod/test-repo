@@ -7,6 +7,7 @@ window.onload = function start(){
     log('coucou');
     log('2eme log');
     log('log ajouté à partir de github');
+    log('log ajouté à partir ma machine);
 
 
 
